@@ -1,0 +1,8 @@
+Cop Costume,Cartmax,150,500
+Formal Suite,M.Plex,100,500
+Fairy Costume,D.Smart,180,500
+Thor Costume,Marvel,200,500
+Football Set,Adibasi,140,500
+Spiderman Set,R.Dior,130,500
+Royal Costume,Guccio,230,500
+Furry Costume,FurBiss,170,500
